@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "6e97a07b-a6be-4142-85c8-b1f5b7e10ee4",
+		"_postman_id": "750a23bd-d3cf-4555-ab27-16bb2f8db021",
 		"name": "Automation Exercise",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
 		"_exporter_id": "41184732"
@@ -603,8 +603,8 @@
 				"method": "POST",
 				"header": [],
 				"body": {
-					"mode": "urlencode",
-					"urlencode": [
+					"mode": "urlencoded",
+					"urlencoded": [
 						{
 							"key": "name",
 							"value": "bebras105",
@@ -626,18 +626,18 @@
 							"type": "text"
 						},
 						{
-							"key": "birth_date",
-							"value": "11",
+							"key": "birth_day",
+							"value": "1",
 							"type": "text"
 						},
 						{
 							"key": "birth_month",
-							"value": "May",
+							"value": "1",
 							"type": "text"
 						},
 						{
 							"key": "birth_year",
-							"value": "1990",
+							"value": "1900",
 							"type": "text"
 						},
 						{
@@ -652,12 +652,12 @@
 						},
 						{
 							"key": "company",
-							"value": "Damb",
+							"value": "Uztvanka",
 							"type": "text"
 						},
 						{
 							"key": "address1",
-							"value": "rastu 11",
+							"value": "rastu 9",
 							"type": "text"
 						},
 						{
