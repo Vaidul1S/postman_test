@@ -603,8 +603,8 @@
 				"method": "POST",
 				"header": [],
 				"body": {
-					"mode": "formdata",
-					"formdata": [
+					"mode": "urlencode",
+					"urlencode": [
 						{
 							"key": "name",
 							"value": "bebras105",
