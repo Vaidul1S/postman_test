@@ -885,7 +885,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{ae_url}}getUserDetailByEmail?email=bebras150@example.com",
+					"raw": "{{ae_url}}getUserDetailByEmail?email=bebras155@example.com",
 					"host": [
 						"{{ae_url}}getUserDetailByEmail"
 					],
