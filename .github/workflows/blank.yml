@@ -35,5 +35,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run Newman Tests
         run: newman run AutomationExercise.postman_collection.json
-          echo Add other actions to build,
-          echo test, and deploy your project.
+         
