@@ -617,7 +617,7 @@
 						},
 						{
 							"key": "password",
-							"value": "bebras321",
+							"value": "1234",
 							"type": "text"
 						},
 						{
@@ -739,7 +739,7 @@
 						},
 						{
 							"key": "password",
-							"value": "bebras321",
+							"value": "1234",
 							"type": "text"
 						},
 						{
@@ -937,7 +937,7 @@
 						},
 						{
 							"key": "password",
-							"value": "bebras321",
+							"value": "1234",
 							"type": "text"
 						}
 					]
