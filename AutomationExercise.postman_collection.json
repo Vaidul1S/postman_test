@@ -612,7 +612,7 @@
 						},
 						{
 							"key": "email",
-							"value": "bebras150@example.com",
+							"value": "bebras155@example.com",
 							"type": "text"
 						},
 						{
@@ -734,7 +734,7 @@
 						},
 						{
 							"key": "email",
-							"value": "bebras150@example.com",
+							"value": "bebras155@example.com",
 							"type": "text"
 						},
 						{
@@ -881,30 +881,18 @@
 					}
 				}
 			],
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
 			"request": {
 				"method": "GET",
 				"header": [],
-				"body": {
-					"mode": "raw",
-					"raw": "",
-					"options": {
-						"raw": {
-							"language": "json"
-						}
-					}
-				},
 				"url": {
-					"raw": "{{ae_url}}getUserDetailByEmail?email=bebras150@bebras.com",
+					"raw": "{{ae_url}}getUserDetailByEmail?email=bebras150@example.com",
 					"host": [
 						"{{ae_url}}getUserDetailByEmail"
 					],
 					"query": [
 						{
 							"key": "email",
-							"value": "bebras150@bebras.com"
+							"value": "bebras150@example.com"
 						}
 					]
 				}
@@ -944,7 +932,7 @@
 					"urlencoded": [
 						{
 							"key": "email",
-							"value": "bebras150@bebras.com",
+							"value": "bebras155@example.com",
 							"type": "text"
 						},
 						{
